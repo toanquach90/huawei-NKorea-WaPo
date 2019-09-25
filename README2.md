@@ -1,1 +1,3 @@
 # huawei-NKorea-WaPo
+The package that I'm reviewing is one of the projects of Washington Post. By analyzing two datasets, they uncovered how the Chinese government covertly helped North Korea establish and maintain its first commercial 3G network. 
+The datasets seem clean and workable, since they are saved as csv file. The story reminds us about the complication of North Korean issue. And the issue cannot be solved without the China's participation.
